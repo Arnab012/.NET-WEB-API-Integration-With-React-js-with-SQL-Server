@@ -1,0 +1,6 @@
+@Registration_Login_Page.Server_HostAddress = http://localhost:5232
+
+GET {{Registration_Login_Page.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
